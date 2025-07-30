@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pillow
-pytesseract
-openai
-python-multipart
-pdf2image
-requests
-gTTS
